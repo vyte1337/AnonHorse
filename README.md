@@ -14,7 +14,12 @@ apt install python3
 git clone https://github.com/vyte1337/AnonHorse
 cd AnonHorse
 pip3 install -r requirements.txt
-python3 AnonHorse.py
+python3 main.py
+```
+
+## Penggunaan
+```sh
+Contoh : +62895000000
 ```
 
 ## Keys / Kunci
